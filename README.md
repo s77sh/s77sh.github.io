@@ -1,12 +1,7 @@
+# Saeed Shahriar: links
 
-# Senior SEO Strategist
-## Google Ads & Technical SEO
+A link-in-bio page for [s77sh.github.io](https://s77sh.github.io/): my websites and socials in one place.
 
-#### Demo
-![I'm a SEO Consultant](https://github.com/s77sh/s77sh.github.io/blob/master/assets/s77sh-demo.jpg)
+AI Search Lead (GEO/AEO) & Senior SEO. Portfolio and CV at [saeedseo.com](https://saeedseo.com/).
 
-### Background Particles
-[ParticleGround Manual](https://github.com/jnicol/particleground)
-
-### PDF
-Replace .pdf file
+Plain HTML and CSS in `index.html`, no build step.
