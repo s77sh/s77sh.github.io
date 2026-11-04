@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s77sh.github.io/sitemap.xml
